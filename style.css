@@ -66,3 +66,17 @@ small {
 .q1goal {
     background-color: brown;
 }
+
+.check {
+  border-radius: 50%;
+  border-color: green;
+  display: inline-block;
+}
+
+.check {
+    width: 30px;
+    height: 30px;
+    border-style: double;
+    border-color: black;
+    text-align: center;
+}
