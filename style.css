@@ -9,6 +9,10 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+#selezionato {
+    background-color: rgb(109, 202, 202);
+}
+
 li {
     list-style: none;
 }
